@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/sambio/git/library/java/.metadata/.plugins/org.eclipse.jdt.core
+3960145189.index
+646308851.index
