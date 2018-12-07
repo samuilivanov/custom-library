@@ -15,10 +15,10 @@ private:
         {
                 int i;
                 T *old = data;
+                delete data;
                 data = new T[capacity];
                 for (i = 0; i < size; i++)
                         data[i] = old[i];
-                delete old;
         }
    
 public:
